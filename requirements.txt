@@ -1,5 +1,4 @@
-@"
-langchain
+﻿langchain
 langgraph
 langchain-groq
 langchain-community
@@ -11,4 +10,3 @@ sentence-transformers
 duckduckgo-search
 python-dotenv
 gradio
-"@ | Out-File -FilePath requirements.txt -Encoding utf8
